@@ -1,4 +1,4 @@
-name: PluginTemplate
+name: EventsSwitch
 version: '${project.version}'
-main: com.goottsy.PluginTemplate
+main: com.goottsy.EventsSwitch
 api-version: '1.19'
